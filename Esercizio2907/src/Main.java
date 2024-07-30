@@ -49,7 +49,7 @@ import java.util.Scanner;
             scanner.close();
         }
 
-        
+
         public static void stampaArray(int[] array) {
             for (int i : array) {
                 System.out.print(i + " ");
@@ -58,3 +58,4 @@ import java.util.Scanner;
         }
     }
 }
+
